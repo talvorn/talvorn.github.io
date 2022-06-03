@@ -1,0 +1,24 @@
+body
+{font-family:tahoma;
+color: #CCCCCC;
+font-size: 9pt;
+letter-spacing: 1pt;
+background-image: url(/images/background.gif);}
+
+a:visited 
+{color:#bc9d5e;
+text-decoration:none; font-weight:bold;}
+
+a:link 
+{color:#bc9d5e;
+text-decoration:none; font-weight:bold;}
+
+a:hover 
+{color:#bc9d5e;
+text-decoration:underline; font-weight:bold;}
+
+td
+{font-family:tahoma;
+color: #CCCCCC;
+font-size: 9pt;
+letter-spacing: 1pt;}
