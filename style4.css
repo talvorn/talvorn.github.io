@@ -1,0 +1,24 @@
+body
+{font-family:tahoma;
+color: #CCCCCC;
+font-size: 9pt;
+letter-spacing: 1pt;
+background-color: #2e2e2e;}
+
+a:visited 
+{color:#FFE303;
+text-decoration:none; font-weight:bold;}
+
+a:link 
+{color:#FFE303;
+text-decoration:none; font-weight:bold;}
+
+a:hover 
+{color:#FFE303;
+text-decoration:underline; font-weight:bold;}
+
+td
+{font-family:tahoma;
+color: #CCCCCC;
+font-size: 9pt;
+letter-spacing: 1pt;}
