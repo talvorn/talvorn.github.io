@@ -1,0 +1,4 @@
+collections:
+  lore:
+    output: true
+    permalink: /:path
