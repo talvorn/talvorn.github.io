@@ -14,12 +14,7 @@ BLAH BLAH BLAH
 
 ## **Opinion of Other Sects**
 
-**Air** - "Strong, powerful, useful and incredibly hard to kill . . .
-yet the Anvar are inherently fools. Born of a deity's disinterest, yet
-they desperately cling to the idea that
-[Solar](Solar_the_Blinding "wikilink") cares about anything at all in
-this universe. Heed not their dogma, but treat them with respect
-regardless for an angered Eater of Metal is a dangerous thing indeed."
+**Air** - "Arrogant Pigeons, but neither of us really seem best placed to be able to actually hurt each other"
 
 **Dark** - "Honour them for their skill that can rival even our own Blue
 Wings, their trade providing our Black Wings with much needed weapons
