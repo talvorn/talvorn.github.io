@@ -8,167 +8,196 @@
 
 ![PsychicSymbol.jpg](PsychicSymbol.jpg "PsychicSymbol.jpg")
 
-BLAH BLAH BLAH
+The Air Sect was formed long before the arrival of humanity upon
+Tal'Vorn. Rumoured to have been gifted to the [Angels](Angel "wikilink")
+by Aeros the Sky Lord Himself, the magic focuses primarily upon
+pin-point strikes of devastating power at long range against single
+targets. As the Gods of Tal'Vorn were once exceedingly active, and even
+today have been known to make personal appearances, the concept that Air
+Magic could have been personally gifted to the
+[Legions](Angel "wikilink") is not actually that far fetched. The God of
+Valour has not been personally active upon the world in several
+centuries however and so His creations have evolved and modified the
+magic to their own purposes in the years since.
+
+The Sect is naturally capable of calling down devastating hurricanes,
+lightning storms and blasts of wind, but such things are considered
+pointless displays of might that are beneath the majesty of the Air
+Sect. A single strike of overwhelming force and precision is considered
+the most acceptable usage of the Storm. An Air Caster can call upon
+active weather fronts or simply create their own lightning from scratch,
+though the former is considerably more powerful. Because of this the Air
+Sect has developed several spells designed to create storm-clouds in
+order to increase the damage of their spells in otherwise calm
+conditions, though doing so is considered a sign of weakness and
+desperation.
+
+Many of the Air Sect are also assigned to military vessels in both the
+ocean going and airship fleets, ensuring good weather and fair winds in
+the name of safety. Though doing this when commanded by their Sects is
+one thing, some Air Casters make a good living doing the same job for
+merchant vessels. Such mercenary activities are considered thoroughly
+beneath the majority of the Sect however. Though it is officially
+frowned upon, the Air Sect have been known to accept contracts for
+nothing more or less than actual assassinations, especially by Casters
+of the lower Ranks. Though Casters are well paid compared to Mundanes,
+assassination generally pays a ridiculous sum of money, especially when
+its required to be as obvious as an Air Sect strike. Little is as
+effective at making a statement as a political opponent being struck
+down by a lightning bolt from a clear blue sky.
 
 ## **Representative Within Haven**
 
+Ping
+
 ## **Opinion of Other Sects**
 
-**Air**
+**Dark** - "They had their uses once, but since the Illaria Purges of
+999AL, we have wisely avoided what is left of these power-hungry,
+soul-bartering fools. Do your job and kill the
+[Untaught](Dark_Sect "wikilink") when you find them."
 
-**Dark** - "Strong, powerful, useful and incredibly hard to kill . . .
-yet the Anvar are inherently fools. Born of a deity's disinterest, yet
-they desperately cling to the idea that
-[Solar](Solar_the_Blinding "wikilink") cares about anything at all in
-this universe. Heed not their dogma, but treat them with respect
-regardless for an angered Eater of Metal is a dangerous thing indeed."
+**Earth** - "Far too obsessed with looking down, the
+[Grounded](Earth_Sect "wikilink") need to look up once in a while and
+appreciate the wonder of the sky above. Still, they are not that much of
+a threat to competent members of our Sect and so should not be a
+concern."
 
-**Earth** - "Honour them for their skill that can rival even our own
-Blue Wings, their trade providing our Black Wings with much needed
-weapons and armour. They make for talented combatants, tough and wilful,
-stubborn almost beyond reason. However be wary as they hold grudges like
-no other, their anger slow burning and ever lasting unlike the short
-fused DragonLords or Anvar."
+**Fire** - "Demented pyromaniacs for the most part, for some mad reason
+the Fire Sect is still ridiculously popular with the common Mundanes.
+They have their uses, to be fair, but make sure you use the full range
+of our spells when they are on the field nearby. Getting caught in the
+blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
+unwise."
 
-**Fire** - "They are as varied as the Humans, in their own way, though
-it would be wise to never mention that fact to their face. Rage is the
-legacy of [Shaltar](Shaltar_the_AllFather "wikilink")'s Children,
-pulsing and screaming in their blood. No matter how calm or gentle the
-Children of the Dragon seem, remember first and foremost that a monster
-lives in the heart of each of them. Consider carefully if their strength
-and skill is worth the potential risks."
+**Guardian** - "Walking walls of armour and magic, the
+[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
+too many responsibilities. How can we trust a Sect who are not only
+responsible for defending the Jump Gates, but also the bodyguards for
+the Magus Council and the teachers of our Acolytes?"
 
-**Guardian** - "Be wary which of
-[Javersith's](Javersith_the_Sorrowful "wikilink") Children you ask for
-aid, as some are gentle and caring and others are brutal and
-uncompromising. Still, we owe this Race a great debt for their aid
-during the Great Plague that caused the division of our Race. Help them,
-protect them and keep them safe if you can, in repayment for this."
+**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
+their place in the world and we will support them in it. But what is the
+skill to cure a runny nose beside the glory of being borne aloft on
+stormwinds, to be commander of hurricanes and typhoons?"
 
-**Healer** - "Our relationship with the Humans is . . . complicated. We
-exploited their apparent racial memory and fear of 'Angelic' beings
-during the Great War to massive effect, something that we, even today,
-are not proud of. They are powerful in their own way, being one of the
-few Races capable of producing legitimately powerful Psykers, and they
-seem to have an inherent knack for most magics. They will never be as
-skilled at calling down the lightning as an Angelic Caster, but their
-broad skill and flexibility is something to be respected."
+**Ice** - "The correct place for a attack focused Caster is behind the
+lines, calm and controlled, not in the midst of the melee risking life
+and limb in a most undignified fashion. The almost slavish devotion the
+[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
+frankly, a little sickening."
 
-**Ice** - "Wilfully lackadaisical, the Children of
-[Hydros](Hydros_the_Laughing_God "wikilink") are cheerful, swift,
-playful and amusing. They also have a worrying tendency towards crime,
-pranks and, occasionally, complete uselessness. If you can motivate
-them, however, their swiftness, absolute fearlessness and supreme
-agility are amazing assets."
+**Knave** - "Bloody mercenaries and thieves, nothing more."
 
-**Knave** - "They are almost Human, but possessed of a nobility that few
-others seem to be able to see. Melancholy follows all three of the
-Soulless Breeds, but burns fiercest in the youngest, the Soulless-Born.
-Lacking the insectile Myrmidons unmatched skill with magics and the
-colossal Abaddons phenomenal strength, the 'Born' make up for it with
-courage, determination and an implacable drive to honour their creator,
-the Nightbringer [Hevar](Hevar_the_Nightbringer "wikilink")."
+**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
+for the natural world, including the rhythms and patterns of the skies.
+Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
+are not as obedient as some of the other Sects. They spend much of their
+time in the wilds and thus have little respect for the status quo."
 
-**Life**
+**Psychic** - "As with any group capable of literally reading your mind,
+be wary and guard your thoughts around them. Their close links to our
+allies in the Order is still no reason to trust the
+[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
+their close connection with the weird magic of Time makes them
+unpredictable."
 
-**Research**
+**Research** - "Explosive obsessed, consequence-blind and driven by
+progress for the sake of it, the Research Sect are a waste of both time
+and resources. Some might say that their guns and technology pack a
+fearsome blow, but frankly our own spells are more accurate and just as
+lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
+with."
 
-**The Order**
+**The Order** - "Our staunchest allies, the
+[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
+thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
+Generally speaking we can trust The Order to assist us both on and off
+the field, their crowd-control abilities meshing well with our own
+pinpoint strikes."
 
-**Universe**
+**Universe** - "For idiot stargazers, the Universe Sect are actually
+quite useful. The ability to manipulate the flow of luck, along with
+their scrying abilities makes it difficult to evade their attentions.
+And since the attention of the [Seers](Universe_Sect "wikilink") can
+take the form of a comet to the face, it is not to be discounted."
 
-**Warrior**
+**Warrior** - "Little more than a jumped up guild of mercenaries and
+bodyguards, the Warrior Sect have started getting above their station in
+recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
+honed to the edge of physical perfection, but that will not help them
+when we put a thousand volts through them."
 
-**Water**
-
-![test2angel.jpg](test2angel.jpg "test2angel.jpg")
+**Water** - "The Water Sect take far too much from their progenitors,
+the Merfolk. Laid back, relaxed and often just lazy, the
+[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
+their uses near the coast but their power is nothing to write home
+about. the ability to turn the ground into a bog is, after all, of
+limited use when the winds can give us flight."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - To play an Angel you -must- possess
-Wings in one of these five shades. Small wings such as those purchased
-from Ann ummers or as part of cheap Halloween Costumes are not a
-suitable physrep. Angels are known by their large, feathered wings. The
-colour varies between the five Breeds, with wing colour being indicative
-of their abilities and place in Angelic society.
-:The colours available are; [Gold](Gold_Winged_Angel "wikilink") "The
-Nobles", [Blue](Blue_Winged_Angel "wikilink") "The Artists",
-[Grey](Grey_Winged_Angel "wikilink") "The Diplomats",
-[White](White_Winged_Angel "wikilink") "The Builders" and
-[Black](Black_Winged_Angel "wikilink") "The Warriors".
+**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
+proverbial lightning bolt.
 
-**Symbol** - The skin of many Angels seems to be lit from above by a
-halo of light in the same shade as their wings. This gives them a
-strange, other worldly look.
-:This can be achieved through the usage of appropriately coloured make
-up along the forehead, nose, upper cheek bones, tops of the ears,
-shoulders, collar bone and chin.
+**Symbol** - The Lightning Bolt
 
-**Tattoo** - Angels of the various different Breeds have typical colours
-of hair associated with their wing colour.
+**Tattoo** - The symbol of the Air Sect is placed upon the *Left
+Shoulder Blade*
 
-**Clothing** - Angels favour long, flowing robes, togas, stola and
-tunics. The colour of their clothing often reflects that of their wings
-and halos or sometimes highlights it with complementary or opposing
-colours.
+**Clothing** - Like most Arcanists, the Air Sect prefer to keep their
+hands free in order to manage the more complex gestures required of
+their aggressive spells and also to ensure that their closer range
+attacks are not accidentally earthed into their own clothing. There is a
+distinct similarity to more traditional Angelic clothing as well,
+causing togas and stola to be common amongst members of the Sect,
+regardless of their racial origin.
 
-**Weapon Preferences** - Angels primarily favour two major different
-kinds of equipment when they go to war. The majority of Angels,
-including the Black Winged, favour long, stabbing spears, heavy, broad
-shields and short blades for up-close work. This flexible array of
-armament allows an Angel to defend themselves against the majority of
-threats without needing excessive training. The minority of Angels,
-especially those trained to fight in the Great Arena in the City of
-[Elis](Elis,_Angel_City_of_War "wikilink"), favour more esoteric
-weaponry; bucklers and longswords, tridents and punch-daggers, heavy
-maces and hammers.
+**Weapon Preferences** - Being formed from the magics used traditionally
+by the [Angelic](Angel "wikilink") inhabitants of Tal'Vorn, the members
+of the Air Sect are traditionally trained and drilled in the usage of
+the long spear favoured by the Children of
+[Aeros](Aeros_the_Valorous "wikilink"). It can be used both in practical
+defence and also as a literal lightning rod, useful for drawing down the
+few close range spells this Sect has access to.
 
-Naturally those trained in the College of War are often schooled in the
-basics of nearly every weapon on the planet, with Warrior Sect Angels
-often favouring their own unusual combinations. Indeed it has become
-common in recent years for Angels to make use of their strength and
-speed to wield massive two-handed swords and heavy pole-weapons in place
-of their more traditional equipment.
+**Roleplaying Effects** - Air Sect casters, especially Angels, are
+taught that they are magically and morally superior to most of the other
+Sects and are known to act it. They dislike getting involved in close
+combat, preferring to hang back from the lines and make use of the full
+range of their powerful spells. They get on well with members of the
+Order, Fire and Universe spells, with distinct rivalries with the Ice,
+Guardian, Warrior and especially Earth Sect. They enjoy displaying their
+power and superiority and often dress to impress, using the bright
+yellow of lightning throughout their clothing and accessories.
 
 ## **Titles**
 
-Angelic names are typically quite short, though there are exceptions,
-and often feature an **'us**' or **'a**' final syllable. As Angels are
-not really born so much as brought into existence, many of them
-eventually choose their own name. For example:
+Air Sect titles most often make reference to the more aggressive aspects
+of their magic, focusing upon storms, lightning, thunder and so forth,
+though some prefer less ominous methods of referring to themselves.
 
   -
 
       -
-        Male: *Atellus, Brutus, Canus, Hannibal, Justinus, Labeo,
-        Malleolus*
-        Female: *Annalis, Bassa, Crispina, Eleanor, Helva, Imperiosa,
-        Lucia*
-
-![test3angel.jpg](test3angel.jpg "test3angel.jpg")
+        Example Titles; AngelsChild, BlackWing, LightningCaller,
+        NorthWind, StormBreaker
 
 ## **Nicknames**
 
-  - SkyBorn
-  - Shining Ones
-  - Pigeon (insult)
-  - The Legions
-  - 'Grey' Winged (and so forth for the relevant colour)
-  - The Blinding
-  - The Blessed
-  - The Divided (insult)
+  - Stormcallers
+  - Navigators
+  - Windbags (insult)
+  - Assassins (insult)
+  - Aeros' Marked
+  - Yellowjacket (Vorn City Slang)
 
 ## **Patron Deity**
 
-The Angels are fiercely proud in their worship of Aeros, their Divine
-Father. They do not kneel before Him, believing instead that they should
-be strong and noble in their bearing. They bow their heads in respect,
-touching fingertips to lips and heart at the start and end of their
-prayers. Heartfelt words and prayers are offered up in place of physical
-offerings as the Angels are well aware that the Sky Lord has no interest
-in gifts.
-
-These prayers are offered up when the Angel awakens, often as the very
-first thing they do upon laying eyes on the blue of the sky, in honour
-of their creator. Thunderstorms are also a time to honour Aeros, the
-Angel's revelling in the display of their deities might.
+Being primarily composed of Angels and using a magic created by that
+self-same Race, the Air Sect has a definite leaning towards the worship
+of Aeros, the Sky Lord. The Stormcallers focus less upon Aeros' aspect
+as the God of Valour and more upon His dominion over Flight and Air
+itself, invoking His name when attempting complex rituals, embarking
+upon dangerous sea voyages, before a potentially lethal mission or
+simply as part of daily life.
