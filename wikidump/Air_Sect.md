@@ -181,6 +181,7 @@ though some prefer less ominous methods of referring to themselves.
 
   - Stormcallers
   - Navigators
+  - Nobles (insult or not depends on speakers tone)
   - Windbags (insult)
   - Assassins (insult)
   - Aeros' Marked
