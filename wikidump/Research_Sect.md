@@ -35,7 +35,16 @@ given Sect.
 
 The Sect generally find work within their own structure or for members of
 the nobility who wish to find more technological solutions to their problems.
-
+Of course there is also members of the Sect stationed in each of the Jump
+Gate Communites in order to act as a glorified engineer in order to ensure
+the arcane devices remain fully functional. Some members of the Sect vie
+for these positions and the relative quiet they provide in order to perform
+their experiments in peace, whilst others view sueh an assignement as a 
+punishment that pulls them away from the frantic pace of progress at the Sect
+HQ in the port city of Grath. The Sects presence in that smog-chocked city
+has lead to it possessing a high level of industrialisation than anywhere
+else on Tal'Vorn and many Research Sect devices are integral to the continued
+creation of the processed goods which are the cities primary export.
 
 ## **Representative Within Haven**
 
