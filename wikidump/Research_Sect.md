@@ -44,7 +44,7 @@ Alexander SteelWalker, Sorcerer Second Class
 ## **Opinion of Other Sects**
 
 
-**Air** - "Interesting control over electrical forces which does not stray over into magnetism, but does also incluse isolation of areas of low and high air pressure in order to induce wind movement."  
+**Air** - "Interesting control over electrical forces which does not stray over into magnetism, but does also include isolation of areas of low and high air pressure in order to induce wind movement."  
   
 **Dark** - "Seems to be able to accelerate some forms of decay in order to rot and destroy, as well as cause severe inflammation of the nervous system causing an excess of pain. All together it does not donate very much to a learning environment."
 
@@ -52,9 +52,9 @@ Alexander SteelWalker, Sorcerer Second Class
 
 **Fire** - "Rapid increase in local temperatures causing a variety of combustion effects, all of them concluding in the same general result."
 
-**Guardian** - "The ability of the Teachers to learn ow-level magics from other Sects is a high fascinating skill and one that begs to be examined at the most precise level."
+**Guardian** - "The ability of the Teachers to learn low-level magics from other Sects is a high fascinating skill and one that begs to be examined at the most precise level."
 
-**Healer** - ""
+**Healer** - "An examination as to if healing magics actually use the physical energy of the subject being healed or if there is some sort of external force involved would answer an array of interesting questions, especially relating to their apparent ability to make wounds worse or inflict disease."
 
 **Ice** - "Effectively the opposite effect of them Smokebelchers. Rapid decrease in ambient temperatures resulting in tissue damage and creation of hardened ice effects."
 
