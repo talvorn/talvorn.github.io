@@ -69,77 +69,29 @@ Ping
 
 **Knave** - "Boring."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Life** - "The limitations of regenerative ability and those of heightened senses are always fascinating subjects. Of course so is the ability to control localised plant-life with apparent skill and refinement!"
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Psychic** - "Sharing of data would be vastly more effecient and yet the Mindbuzzers insist upon hoarding it instead. Shows a paranoid, short-sighted mindset in our opinion."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**The Order** - "Pain is well understood but the inflammation of the nerves seems worryingly similar to Dark Sect magics and the domination abllity is certainly a security concern. Need to develop methods of detecting it to prevent our laboratories from being infiltrated."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**Universe** - "The ability to forsee multiple futures and isolate one for themselves or the victims of their luck bending magics without altering the flow of the future for anyone else? Monstrously powerful!"
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Warrior** - "Our opinion of the Warrior Sect is the only point at which we agree with our colleagues in the Noble. Useless."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
-
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "Localised tidal waves, blasts of water, creation of quagmire or swamp, low level physical restoration, shields of liquid to protect from attacks . . . The list goes on and yet people accuse the Surfers of being underpowered?"
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - Dark grey.
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The Open Book
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The symbol of the Researc Sect is placed upon the *Stomach*
 
-**Clothing** - Like most Arcanists, the Air Sect prefer to keep their
-hands free in order to manage the more complex gestures required of
-their aggressive spells and also to ensure that their closer range
-attacks are not accidentally earthed into their own clothing. There is a
-distinct similarity to more traditional Angelic clothing as well,
-causing togas and stola to be common amongst members of the Sect,
-regardless of their racial origin.
+**Clothing** - Utility and cleanliness are the primary concerns of the Scientists. Their clothing often incorporates a variety of pockets, belts and pouches for easy storage of devices and components, as well as being formed of reasonably resistant material in case of splashes or spills. Their robes, for a similar reason, are usually easy to don or remove, avoiding any complicated bucklets or buttons as when your clothing is on fire or melting, removing the item is more important than looking good whilst doing so.
 
-**Weapon Preferences** - Being formed from the magics used traditionally
-by the [Angelic](Angel "wikilink") inhabitants of Tal'Vorn, the members
-of the Air Sect are traditionally trained and drilled in the usage of
-the long spear favoured by the Children of
-[Aeros](Aeros_the_Valorous "wikilink"). It can be used both in practical
-defence and also as a literal lightning rod, useful for drawing down the
-few close range spells this Sect has access to.
+**Weapon Preferences** - Generally speaking the Research Sect do not favour weapons, though some carry staves for self-defence or for poking potentially dangerous items at a distance. If they are forced to travel into dangerous locations however, then they do have on advantage over their fellow Sect members; gunpowder. The Research Sect are the foremeost creators of a variety of esoteric and strange gunpowder and Mani firearms and make use of these in dire need to unleash utter chaos on the battlefield.
 
 **Roleplaying Effects** - Air Sect casters, especially Angels, are
 taught that they are magically and morally superior to most of the other
