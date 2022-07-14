@@ -93,27 +93,23 @@ Ping
 
 **Weapon Preferences** - Generally speaking the Research Sect do not favour weapons, though some carry staves for self-defence or for poking potentially dangerous items at a distance. If they are forced to travel into dangerous locations however, then they do have on advantage over their fellow Sect members; gunpowder. The Research Sect are the foremeost creators of a variety of esoteric and strange gunpowder and Mani firearms and make use of these in dire need to unleash utter chaos on the battlefield.
 
-**Roleplaying Effects** - Air Sect casters, especially Angels, are
-taught that they are magically and morally superior to most of the other
-Sects and are known to act it. They dislike getting involved in close
-combat, preferring to hang back from the lines and make use of the full
-range of their powerful spells. They get on well with members of the
-Order, Fire and Universe spells, with distinct rivalries with the Ice,
-Guardian, Warrior and especially Earth Sect. They enjoy displaying their
-power and superiority and often dress to impress, using the bright
-yellow of lightning throughout their clothing and accessories.
-
+**Roleplaying Effects** - The first thing that defines the Research Sect
+is curiosity; their desire for knowledge is insatiable, and they are
+continually asking questions and performing research. They have a tendency
+towards doing things in order to see what the outcome is, even if the
+outcome may not be positive, which can result in their detractors
+thinking of the Sect as nigh-uncontrolled maniacs with a love of explosions.
+To a limited extent, this is true; the Lord Research is generally happy
+to allow his Casters to persue any line of enquiry they with, which can,
+on occasion, end extremely badly.
+  
 ## **Titles**
 
-Air Sect titles most often make reference to the more aggressive aspects
-of their magic, focusing upon storms, lightning, thunder and so forth,
-though some prefer less ominous methods of referring to themselves.
+Research Sect titles generally make reference to either the mundane or
+esoteric aspects of their work. Crafting, magnetism, knowledge and, quite
+often, guns.
 
-  -
-
-      -
-        Example Titles; AngelsChild, BlackWing, LightningCaller,
-        NorthWind, StormBreaker
+  - Example Titles; AbleBuilder, DeftSpark, GunCrafter, ResarchFinder, TestBreaker 
 
 ## **Nicknames**
 
@@ -132,12 +128,6 @@ Gods, this changes when said deities might turn up at your workstation
 to take a personal interest in your latest project. The Research Sect 
 politely pay homage to both Lilar and Terra as the Goddess of Technology
 and God of Smithing respectively, depending upon the individuals preferred
-area of research. Those focusing heavily on the biosciences 
-  
-Being primarily composed of Angels and using a magic created by that
-self-same Race, the Air Sect has a definite leaning towards the worship
-of Aeros, the Sky Lord. The Stormcallers focus less upon Aeros' aspect
-as the God of Valour and more upon His dominion over Flight and Air
-itself, invoking His name when attempting complex rituals, embarking
-upon dangerous sea voyages, before a potentially lethal mission or
-simply as part of daily life.
+area of research. Those focusing heavily on the biosciences might request 
+the attention of Vriclar or those with no real idea of how to progress may
+request the help of Grathis.
