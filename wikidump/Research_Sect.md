@@ -48,7 +48,7 @@ down by a lightning bolt from a clear blue sky.
 
 ## **Representative Within Haven**
 
-Ping
+Alexander SteelWalker, Sorcerer Second Class
 
 ## **Opinion of Other Sects**
 
