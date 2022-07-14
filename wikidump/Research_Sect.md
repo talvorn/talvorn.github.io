@@ -53,42 +53,19 @@ Ping
 ## **Opinion of Other Sects**
 
 
-**Air** - "Interesting xontrol over electrical forces which does not stray over into magnetism, but does also incluse isolation of areas of low and high air pressure in order to induce wind movement."  
+**Air** - "Interesting control over electrical forces which does not stray over into magnetism, but does also incluse isolation of areas of low and high air pressure in order to induce wind movement."  
   
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Dark** - "Seems to be able to accelerate some forms of decay in order to rot and destroy, as well as cause severe inflammation of the nervous system causing an excess of pain. All together it does not donate very much to a learning environment."
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Earth** - "The creation of localised tectonic forces is fascintating, if widely already studied. The psychology of of as to why they are so determined to keep the Order out of Karamaterra, on the other hand, is woefully under explained."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Fire** - "Rapid increase in local temperatures causing a variety of combustion effects, all of them concluding in the same general result."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Guardian** - "The ability of the Teachers to learn ow-level magics from other Sects is a high fascinating skill and one that begs to be examined at the most precise level."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Healer** - ""
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Ice** - "Effectively the opposite effect of them Smokebelchers. Rapid decrease in ambient temperatures resulting in tissue damage and creation of hardened ice effects."
 
 **Knave** - "Boring."
 
