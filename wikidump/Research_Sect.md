@@ -52,6 +52,9 @@ Ping
 
 ## **Opinion of Other Sects**
 
+
+**Air** - "Interesting xontrol over electrical forces which does not stray over into magnetism, but does also incluse isolation of areas of low and high air pressure in order to induce wind movement."  
+  
 **Dark** - "They had their uses once, but since the Illaria Purges of
 999AL, we have wisely avoided what is left of these power-hungry,
 soul-bartering fools. Do your job and kill the
@@ -87,7 +90,7 @@ and limb in a most undignified fashion. The almost slavish devotion the
 [Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
 frankly, a little sickening."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Knave** - "Boring."
 
 **Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
 for the natural world, including the rhythms and patterns of the skies.
