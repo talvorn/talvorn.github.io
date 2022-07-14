@@ -117,15 +117,23 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Scientists
+  - Experimenters
+  - The Grey
+  - Madmen (insult)
+  - Wafflers (insult)
+  - Lilar Marked
+  - Tinkerer (Vorn City Slang)
 
 ## **Patron Deity**
 
+Although a rational mind might be disinclined towards worship of the
+Gods, this changes when said deities might turn up at your workstation
+to take a personal interest in your latest project. The Research Sect 
+politely pay homage to both Lilar and Terra as the Goddess of Technology
+and God of Smithing respectively, depending upon the individuals preferred
+area of research. Those focusing heavily on the biosciences 
+  
 Being primarily composed of Angels and using a magic created by that
 self-same Race, the Air Sect has a definite leaning towards the worship
 of Aeros, the Sky Lord. The Stormcallers focus less upon Aeros' aspect
