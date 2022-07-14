@@ -87,7 +87,7 @@ Alexander SteelWalker, Sorcerer Second Class
 
 **Symbol** - The Open Book
 
-**Tattoo** - The symbol of the Researc Sect is placed upon the *Stomach*
+**Tattoo** - The symbol of the Research Sect is placed upon the *Stomach*
 
 **Clothing** - Utility and cleanliness are the primary concerns of the Scientists. Their clothing often incorporates a variety of pockets, belts and pouches for easy storage of devices and components, as well as being formed of reasonably resistant material in case of splashes or spills. Their robes, for a similar reason, are usually easy to don or remove, avoiding any complicated bucklets or buttons as when your clothing is on fire or melting, removing the item is more important than looking good whilst doing so.
 
