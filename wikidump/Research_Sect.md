@@ -8,29 +8,30 @@
 
 ![ResearchSymbol.jpg](ResearchSymbol.jpg "ResearchSymbol.jpg")
 
-The Air Sect was formed long before the arrival of humanity upon
-Tal'Vorn. Rumoured to have been gifted to the [Angels](Angel "wikilink")
-by Aeros the Sky Lord Himself, the magic focuses primarily upon
-pin-point strikes of devastating power at long range against single
-targets. As the Gods of Tal'Vorn were once exceedingly active, and even
-today have been known to make personal appearances, the concept that Air
-Magic could have been personally gifted to the
-[Legions](Angel "wikilink") is not actually that far fetched. The God of
-Valour has not been personally active upon the world in several
-centuries however and so His creations have evolved and modified the
-magic to their own purposes in the years since.
+The Research Sect, generally speaking, has its history in experiments
+performed by the Conflaris and Ether Walkers, but in all truth it took
+the unashamed willingness to ask apparently stupid questions possessed
+by Humanity in order to truly progress. Now they are a powerhouse of 
+innovation, combining magic, technology and a shotgun approach to science
+to craft all manner of strange, bizarre and, in somecases, completely
+unhinged devices. The best example of this would be the booming field
+of bionics; replacement limbs are within the ability of the Research
+Sect to create, install and have function. However, the Sect likes such
+things to be an upgrade, not simply a replacement, so many have weapons
+or devices built in, including guns equipped with explosive rounds. In
+your new leg.
 
-The Sect is naturally capable of calling down devastating hurricanes,
-lightning storms and blasts of wind, but such things are considered
-pointless displays of might that are beneath the majesty of the Air
-Sect. A single strike of overwhelming force and precision is considered
-the most acceptable usage of the Storm. An Air Caster can call upon
-active weather fronts or simply create their own lightning from scratch,
-though the former is considerably more powerful. Because of this the Air
-Sect has developed several spells designed to create storm-clouds in
-order to increase the damage of their spells in otherwise calm
-conditions, though doing so is considered a sign of weakness and
-desperation.
+The powers of the Sect are rooted in magnetism and, more recently, in
+short-lived nanites. They also have a limited ability to modify perception,
+by blinding scrying effects, technological devices and even actual sight.
+This all manifests in repairing or breaking tools and devices, spontaneously
+creating items from apparently irrelevant items, reducing objects and
+creatures down to their base components via blasts of nanites or explosive
+devices. They can armour themselves to a limited extent, as well as mimic
+some lower level magic from a few of the other more esotric Sects using
+their nanites, including Universe, Order, Life and even the dreaded Dark
+Sect, but these spells will never be as powerful as a true Caster of the
+given Sect.
 
 Many of the Air Sect are also assigned to military vessels in both the
 ocean going and airship fleets, ensuring good weather and fair winds in
