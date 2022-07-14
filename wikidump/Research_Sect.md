@@ -33,19 +33,9 @@ their nanites, including Universe, Order, Life and even the dreaded Dark
 Sect, but these spells will never be as powerful as a true Caster of the
 given Sect.
 
-Many of the Air Sect are also assigned to military vessels in both the
-ocean going and airship fleets, ensuring good weather and fair winds in
-the name of safety. Though doing this when commanded by their Sects is
-one thing, some Air Casters make a good living doing the same job for
-merchant vessels. Such mercenary activities are considered thoroughly
-beneath the majority of the Sect however. Though it is officially
-frowned upon, the Air Sect have been known to accept contracts for
-nothing more or less than actual assassinations, especially by Casters
-of the lower Ranks. Though Casters are well paid compared to Mundanes,
-assassination generally pays a ridiculous sum of money, especially when
-its required to be as obvious as an Air Sect strike. Little is as
-effective at making a statement as a political opponent being struck
-down by a lightning bolt from a clear blue sky.
+The Sect generally find work within their own structure or for members of
+the nobility who wish to find more technological solutions to their problems.
+
 
 ## **Representative Within Haven**
 
