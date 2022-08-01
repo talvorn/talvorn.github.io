@@ -63,11 +63,9 @@ and annoyingly the [Diggers](Earth_Sect "wikilink") know that and can be
 somewhat cocky because of it. Still, heat wins in the end, and even stone
 becomes lava."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Guardian** - "Dogmatic and set in their ways, but very good at defence
+and siege work. Shame they try to take on far too many responsibilities
+they are less fit for."
 
 **Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
 their place in the world and we will support them in it. But what is the
