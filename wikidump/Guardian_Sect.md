@@ -68,10 +68,8 @@ unrelentingly non-specific in their area of influence."
 out defences, so do your best to weather the storm and press in close
 quickly should they decide to assail you."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Healer** - "Even the best defence can benefit from repair and the
+[Benevolent](Healer_Sect "wikilink")"
 
 **Ice** - "The correct place for a attack focused Caster is behind the
 lines, calm and controlled, not in the midst of the melee risking life
