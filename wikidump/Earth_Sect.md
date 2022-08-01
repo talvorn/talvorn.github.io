@@ -87,7 +87,7 @@ so keep them well supplied for the journey."
 [Timus Marked](Psychic_Sect "wikilink"). Keep yourself honest and you will
 also need have no concerns."
 
-**Research** - "We dobn;t have much use for their various absurd
+**Research** - "We don't have much use for their various absurd
 inventions, but they are helpful at least in keeping the Jump Gates
 operational."
 
