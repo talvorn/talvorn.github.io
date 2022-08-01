@@ -52,23 +52,15 @@ Ping
 
 ## **Opinion of Other Sects**
 
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Air** - "Our inability to hurt each other does not garner respect.
+The [Nobles](Air_Sect "wikilink")" are nothing like as superior as
+they portray themselves and their arrogance is frankly irritating.
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Dark** - "We were part of the force sent in to break the [Decieved](Dark_Sect "wikilink")
+during the Illaria Purges. Evidently our job is not done, so finish the task."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Fire** - "Naturally in any location as warm as the [City of Temples](Karamaterra "wikilink"),
+"
 
 **Guardian** - "Walking walls of armour and magic, the
 [Teachers](Guardian_Sect "wikilink") do their jobs well but they have
