@@ -67,16 +67,13 @@ becomes lava."
 and siege work. Shame they try to take on far too many responsibilities
 they are less fit for."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Healer** - "One of the few Sects that are more popular than we are, and
+for good reasons! The [Javersith Marked](Healer_Sect "wikilink") are useful to have
+around in case the backlash from an explosion gets out of hand."
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Ice** - "Irritating, flighty liars. If they could stick to an agreement
+for more than five minutes, perhaps anyone would have something better to
+say about them."
 
 **Knave** - "Bloody mercenaries and thieves, nothing more."
 
