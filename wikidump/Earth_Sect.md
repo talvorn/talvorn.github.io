@@ -96,34 +96,27 @@ adamant that only they can provide for security and crime fighting. We
 remain equally certain that we are doing perfectly fine without them
 slicing off hands and tongues, thank you very much."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "The presence of one of their observatories in Karamaterra
+doesn't mean that we should trust a Sect renowned for manipulating
+luck to their own ends. Be cautious."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "A staunch front line against the monsters and 
+creatures that threaten us all on a daily basis, as well as 
+reliable, honourable allies."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "Flexible and useful enough, in their own way, but
+don't underestimate the effects their waterlogging can have
+on our ability to manipulate the ground beneath our feet.
+Nothing worse than expecting a full quake and only gettings a
+minor tremor."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - Brown, as stone or the earth underfoot.
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The White Mountain
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The symbol of the Air Sect is placed upon the *Sternum*.
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
