@@ -94,43 +94,38 @@ brain is a fragile thing."
 **Research** - "The damage dealt by their spells is reasonably
 straightforward, usually crushing or pressing injuries from gravity
 manipulation, but the effect they have on themselves? Be prepared
-for acid burns, explosion related wounds "
+for acid burns, explosion related wounds and possibly embedded glass."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**The Order** - "Primarily the damage caused by 
+[The Order](The_Order_Sect "wikilink") are as a result of punishments
+they have meted out for crimes committed, so expect broken hands,
+wrists, arms and possibly legs, as well as general contusions and
+concussions. Oh, and make clear to any local Order Casters that
+abuse of the phrase 'natural healing only' will get their own healing
+rights revoked."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "With their ability to modify luck, you should be 
+prepared for just about everything. Falls, concussions from falling
+objects and accidental stabbings are all equally likely."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "The vast array of weapons used by the 
+[Brave](Warrior_Sect "wikilink")makes it difficult to prepare in 
+advance for them. Expect, in general, blunt impact trauma, stab
+wounds, cuts from slicing blades and damage from anything else
+you can think of which could be used as a weapon."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "Actual drowning is, surprisingly, a low risk as the
+[Sailors](Water_Sect "wikilink") don't use their magics aggressively
+enough for it. There is impact damage, tripping injuries and
+abrasions to be on guard against however."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - White, with a red trim.
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The Red Crucifix
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The symbol of the Healer Sect is placed upon the *Hollow of the Throat*
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
