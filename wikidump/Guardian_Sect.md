@@ -60,13 +60,13 @@ and eye to the sky will see you through."
 of the [Vile](Dark_Sect "wikilink") and help bring them to their
 knees. No mercy for the monstrous."
 
-**Earth** - ""
+**Earth** - "Though they are our closest allies, we should keep a 
+distance in combat if only for the sake of safety! Their spells are
+unrelentingly non-specific in their area of influence."
 
-**Fire** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Fire** - "A strong enough application of [Fire Magic](Fire_Sect "wikilink") can pierce even
+out defences, so do your best to weather the storm and press in close
+quickly should they decide to assail you."
 
 **Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
 their place in the world and we will support them in it. But what is the
