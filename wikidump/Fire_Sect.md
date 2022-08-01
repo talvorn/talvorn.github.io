@@ -52,23 +52,16 @@ Ping
 
 ## **Opinion of Other Sects**
 
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Air** - "Arrogant [Assassins](Air_Sect "wikilink") but powerful enough and 
+reasonable in their own way. Just make sure you stay in range of our own
+spells, just in case."
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Dark** - "Burn them out of the holes they try to hide in."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Earth** - "Walls of direct and layers of mud are difficult to burn though,
+and annoyingly the [Diggers](Earth_Sect "wikilink") know that and can be 
+somewhat cocky because of it. Still, heat wins in the end, and even stone
+becomes lava."
 
 **Guardian** - "Walking walls of armour and magic, the
 [Teachers](Guardian_Sect "wikilink") do their jobs well but they have
@@ -185,12 +178,12 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Blazing
+  - Firestarters
+  - Pyromaniacs (insult)
+  - Pyros (insult)
+  - Asgar Marked
+  - Smokebelchers (Vorn City Slang)
 
 ## **Patron Deity**
 
