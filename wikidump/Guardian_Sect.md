@@ -78,15 +78,14 @@ a package which can occasionally be a little less than reliable.
 Still, to give the [Glacial](Ice_Sect "wikilink") their due, they
 seem to be doing their best to follow our alliance."
 
-**Knave** - "The Knaves Guild was creatred by a n incentive pushed
+**Knave** - "The [Knaves Guild](Knaves_Guild "wikilink") was creatred by an incentive pushed
 through by a Lord Guardian and thus their actions probably fall under
 our responsibility. Delightful."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Life** - "The Earth Sect holds the [Rangers](Life_Sect "wikilink") in
+high regard but we come from different plces in the world. Only where the 
+urban and the rural overlap would we come into contact, but they seem nice
+enough, if a little eccentric."
 
 **Psychic** - "As with any group capable of literally reading your mind,
 be wary and guard your thoughts around them. Their close links to our
