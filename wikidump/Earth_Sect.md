@@ -158,12 +158,12 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Grounded
+  - Shattersteps
+  - Diggers (insult)
+  - Mudgrubbers (insult)
+  - Terra' Marked
+  - Shakers (Vorn City Slang)
 
 ## **Patron Deity**
 
