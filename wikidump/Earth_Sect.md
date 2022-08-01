@@ -53,14 +53,15 @@ Ping
 ## **Opinion of Other Sects**
 
 **Air** - "Our inability to hurt each other does not garner respect.
-The [Nobles](Air_Sect "wikilink")" are nothing like as superior as
-they portray themselves and their arrogance is frankly irritating.
+The [Nobles](Air_Sect "wikilink") are nothing like as superior as
+they portray themselves and their arrogance is frankly irritating."
 
 **Dark** - "We were part of the force sent in to break the [Decieved](Dark_Sect "wikilink")
 during the Illaria Purges. Evidently our job is not done, so finish the task."
 
 **Fire** - "Naturally in any location as warm as the [City of Temples](Karamaterra "wikilink"),
-"
+having [Firestarters](Fire_Sect "wikilink") on hand to put out any
+wildfires is exceedingly helpful."
 
 **Guardian** - "Walking walls of armour and magic, the
 [Teachers](Guardian_Sect "wikilink") do their jobs well but they have
