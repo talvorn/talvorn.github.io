@@ -87,55 +87,39 @@ high regard but we come from different plces in the world. Only where the
 urban and the rural overlap would we come into contact, but they seem nice
 enough, if a little eccentric."
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Psychic** - "An itch behind the eyes may indicate the rummagings of
+a [Psyker](Psychic_Sect "wikilink"). Make ckear your distaste for such
+impoliteness and remind them that their friendship with
+[The Order](Order_Sect "wikilink") does not give them carte blanche
+to act how they wish."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Research** - "Be careful of even the most innocent looking devivce
+the [Tinkerers](Research_Sect "wikilink") provides. Their hearts are 
+generally in the right place but sometimes the cogs and wheels are not."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**The Order** - "Control-obsessed, violent, vindictive totalitarians. 
+We performed their tasks for centuries and we managed to avoid being 
+almost universally reviled by the Mundanes."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "Luck manipulation won't help in the face of a suitable
+defence. Careful of your footing however, as the [Twisters](Universe_Sect "wikilink")
+seem to find people falling face first to be funny for some reason."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "A suitable sword to our armour-clad shield. The 
+[Brave](Warrior_Sect "wikilink") have earned their name well, 
+so stand with them and they will stand with you."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "A surprisngly flexible array of magics, but their 
+reliance upon their elements presence is a weakness. If they
+need time, do what you can to buy it for them."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - Dark green.
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The Iron Portcullis
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The symbol of the Guardian Sect is placed upon the *Right Cheek Bone*
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
@@ -177,12 +161,12 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Defenders
+  - Teachers
+  - Hidebound (insult)
+  - Stubborn (insult)
+  - Hevar' Marked
+  - Froggers (Vorn City Slang)
 
 ## **Patron Deity**
 
