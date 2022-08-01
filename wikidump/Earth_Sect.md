@@ -63,16 +63,13 @@ during the Illaria Purges. Evidently our job is not done, so finish the task."
 having [Firestarters](Fire_Sect "wikilink") on hand to put out any
 wildfires is exceedingly helpful."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Guardian** - "Their willingness to assist in policing [Karamaterra](Karamaterra "wikilink")
+as well as keeping [The Order](The_Order_Sect "wikilink") out of our city
+makes the [Defenders](Guardian_Sect "wikilink") easily our staunchest allies."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Healer** - "The Devouring Jungle is a wilderness full of all manner of
+horrifying diseases and poisons, making the [Benevolent](Healer_Sect "wikilink")
+a true boon in the city and on any expedition."
 
 **Ice** - "The correct place for a attack focused Caster is behind the
 lines, calm and controlled, not in the midst of the melee risking life
