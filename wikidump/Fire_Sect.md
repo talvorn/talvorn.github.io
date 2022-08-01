@@ -75,27 +75,21 @@ around in case the backlash from an explosion gets out of hand."
 for more than five minutes, perhaps anyone would have something better to
 say about them."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Knave** - "Something oddly charming about the 
+[Sly](Knaves_Guild "wikilink"). At least you know where you stand with 
+them. Facing them, with your pouch somewhere safe."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Life** - "Regeneration is always helpful, but their vines and other
+plant tricks rapidly wilt in the face of our magics. Of mixed usefulness,
+all told."
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Psychic** - "Even their working alliance with the [Just](Order_Sect "wikilink")
+is not enough for us to entirely trust any Sect capable of rooting
+around inside our minds. Guard your thoughts."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Research** - "They seem to spend a lot of time and effort in
+making devices that quite often replicate what our own spells
+achieve, intentional or not."
 
 **The Order** - "Our staunchest allies, the
 [Lawmakers](The_Order_Sect "wikilink") are honourable and forward
