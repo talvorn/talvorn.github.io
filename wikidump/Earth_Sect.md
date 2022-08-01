@@ -116,7 +116,7 @@ minor tremor."
 
 **Symbol** - The White Mountain
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Sternum*.
+**Tattoo** - The symbol of the Earth Sect is placed upon the *Sternum*.
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
