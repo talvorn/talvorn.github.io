@@ -91,41 +91,34 @@ around inside our minds. Guard your thoughts."
 making devices that quite often replicate what our own spells
 achieve, intentional or not."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**The Order** - "The law is the one thing we cannot allow to slip.
+Anarchy creates chaos, which even we Smokebelchers work hard to avoid.
+Even fire should be controlled, carefully and with dedication, just as
+[The Order](The_Order_Sect "wikilink") seeks to do with those foolish
+enough to live as criminals."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "A comet from on-high can be just as destructive as some
+of the more powerful of our magics, but claiming to do so simply by
+manipulating fate seems deeply concerning."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "There is little that the [Brave](Warrior_Sect "wikilink") 
+can do in the face of our spells except expire. I suppose they can be
+of limited usage in buying time, but be careful. They take offence at
+being caught in the area of effect."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "Flash boiling their spells to steam tends to cause upset,
+so mind your placements. Other than that, and the traditional rivalry
+between us based upon our elemental affinities, they are actually
+generally in offensive."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - Bright red, often with orange or yellow accents.
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The Blazing Flame
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The symbol of the Fire Sect is placed upon the *Left
+Hip*
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
