@@ -75,34 +75,26 @@ a true boon in the city and on any expedition."
 alliance with the [Guardians](Guardian_Sect "wikilink"), so we will trust
 them for now. At least a little."
 
-**Knave** - "Thieving "
+**Knave** - "Thieving devils, but if they can be directed properly than
+the skills of the [Pickpockets](Knaves_Guild "wikilink") can be rather useful."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Life** - "The [Rangers](Life_Sect "wikilink") bring in an interesting array
+of items, goods and discoveries from the Devouring Jungle, as well as keeping
+tabs on the Bisch herds and monsters roaming in its depths. Highly useful
+so keep them well supplied for the journey."
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Psychic** - "We have no secrets to keep, so nothing to fear from the
+[Timus Marked](Psychic_Sect "wikilink"). Keep yourself honest and you will
+also need have no concerns."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Research** - "We dobn;t have much use for their various absurd
+inventions, but they are helpful at least in keeping the Jump Gates
+operational."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**The Order** - "The [Stripebacks](The_Order_Sect "wikilink") remain
+adamant that only they can provide for security and crime fighting. We
+remain equally certain that we are doing perfectly fine without them
+slicing off hands and tongues, thank you very much."
 
 **Universe** - "For idiot stargazers, the Universe Sect are actually
 quite useful. The ability to manipulate the flow of luck, along with
