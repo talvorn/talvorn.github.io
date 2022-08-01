@@ -71,13 +71,11 @@ makes the [Defenders](Guardian_Sect "wikilink") easily our staunchest allies."
 horrifying diseases and poisons, making the [Benevolent](Healer_Sect "wikilink")
 a true boon in the city and on any expedition."
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Ice** - "Generally untrustworthy, but they seem genuine enough in their
+alliance with the [Guardians](Guardian_Sect "wikilink"), so we will trust
+them for now. At least a little."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Knave** - "Thieving "
 
 **Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
 for the natural world, including the rhythms and patterns of the skies.
