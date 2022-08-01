@@ -69,15 +69,18 @@ out defences, so do your best to weather the storm and press in close
 quickly should they decide to assail you."
 
 **Healer** - "Even the best defence can benefit from repair and the
-[Benevolent](Healer_Sect "wikilink")"
+[Benevolent](Healer_Sect "wikilink") are second to none at this. Shield
+them from all comers and they will keep you in the fight forever."
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Ice** - "Precise damage at a close range is an ideal combination
+with our skills at close defence, even if it comes attached to
+a package which can occasionally be a little less than reliable.
+Still, to give the [Glacial](Ice_Sect "wikilink") their due, they
+seem to be doing their best to follow our alliance."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Knave** - "The Knaves Guild was creatred by a n incentive pushed
+through by a Lord Guardian and thus their actions probably fall under
+our responsibility. Delightful."
 
 **Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
 for the natural world, including the rhythms and patterns of the skies.
