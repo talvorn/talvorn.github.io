@@ -48,29 +48,21 @@ down by a lightning bolt from a clear blue sky.
 
 ## **Representative Within Haven**
 
-Ping
+James GateWarder, Sorcerer Second Class
 
 ## **Opinion of Other Sects**
 
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Air** - "Arrogance does not replace skill, no matter how much the
+[Windbags](Air_Sect "wikilink") may wish it to. A solid defence 
+and eye to the sky will see you through."
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Dark** - "Defend any and all Casters in area, shatter the defences
+of the [Vile](Dark_Sect "wikilink") and help bring them to their
+knees. No mercy for the monstrous."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Earth** - ""
 
-**Guardian** - "Walking walls of armour and magic, the
+**Fire** - "Walking walls of armour and magic, the
 [Teachers](Guardian_Sect "wikilink") do their jobs well but they have
 too many responsibilities. How can we trust a Sect who are not only
 responsible for defending the Jump Gates, but also the bodyguards for
