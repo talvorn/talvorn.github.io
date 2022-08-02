@@ -128,14 +128,12 @@ eventually choose their own name. For example:
 
 ## **Nicknames**
 
-  - SkyBorn
-  - Shining Ones
-  - Pigeon (insult)
-  - The Legions
-  - 'Grey' Winged (and so forth for the relevant colour)
-  - The Blinding
-  - The Blessed
-  - The Divided (insult)
+  - Newborn
+  - Glacial
+  - Fickle (insult)
+  - Oath-Breakers (insult)
+  - The Unmarked
+  - Frosts (Vorn City Slang)
 
 ## **Patron Deity**
 
