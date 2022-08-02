@@ -60,13 +60,20 @@ collectively learn to keep their noses out of other peoples business."
 create is actually useful. Yet, for some reason, people trust them
 more than ourselves. Absurd."
 
-**The Order**
+**The Order** - "Law is important, naturally, as its enforcement,
+but the brutality dished out by [The Order](The_Order_Sect "wikilink")
+for even minor offcences seems to be . . . excessive. No wonder
+they are not popular."
 
-**Universe**
+**Universe** - "Almost useless stargazers and dreamers. Actually
+persuading one of the [Fortunetellers](Universe_Sect "wikilink") to
+engage in what is happening around them is a minor miracle."
 
-**Warrior**
+**Warrior** - "Just a pack of over-trained, over-muscled Mundanes."
 
-**Water**
+**Water** - "The [Sodden](Water_Sect "wikilink") remain unhappy
+that we broke off from them two centuries ago and took their
+most effective attack spells with us. Tough for them."
 
 ![test2angel.jpg](test2angel.jpg "test2angel.jpg")
 
