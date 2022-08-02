@@ -56,57 +56,35 @@ Ping
 for nothing. Think they are better than everyone, but that just 
 means they have more belongings to rifle through."
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Dark** - "Now these are genuine, real-deal baddies. Give them
+a kicking, but do it from a safe place, yeah?"
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Earth** - "Stay off the ground or yer likely to end up face first
+on it. Nice enough if they don't think yer picking their
+pocket though."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Fire** - "Bloody [Pyromaniacs](Fire_Sect "wikilink"). Useful 
+against a mob of folks though, so try to make friends."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Guardian** - "Our much vaunted 'patrons'. More fool if they think
+making our dealings semi-legal will stop us from making the
+most of it."
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Healer** - "Anazubg folk, truly are. Nothing like the soothing
+touch of the [Kindly](Healer_Sect "wikilink") after you've
+had your head kicked in by a [Stripeback](The_Order_Sect "wikilink")."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Ice** - "Almost as reliable as we are! Still doesn't mean
+you should trust 'em any further than you could throw 'em."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Life** - "They mostly do in the wilds what we do in the cities,
+so game has to respect game. Bit weird though."
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Psychic** - "[Mindbuzzers](Psychic_Sect "wikilink") don't like it
+when you hum really annoying songs to yourself inside your own head. 
+Which makes it obviously hilarious and smart to do."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Research** - "Grapping hooks, "
 
 **The Order** - "Our staunchest allies, the
 [Lawmakers](The_Order_Sect "wikilink") are honourable and forward
