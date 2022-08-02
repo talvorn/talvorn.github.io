@@ -52,16 +52,14 @@ Ping
 
 ## **Opinion of Other Sects**
 
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Air** - "They have so many options for freedom and yet most of them
+simply spend their days preening and revelling in their own superiority.
+The ones who work at sea through are usually good people, used to
+hardship and more humble because of it."
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Dark** - "A collective abomination against the natural world,
+embodying decay far beyond the normal cycle. They are a force of
+entropy without renewal and this is unacceptable."
 
 **Fire** - "Demented pyromaniacs for the most part, for some mad reason
 the Fire Sect is still ridiculously popular with the common Mundanes.
