@@ -14,34 +14,24 @@ BLAH BLAH BLAH
 
 ## **Opinion of Other Sects**
 
-**Air** - "Wilfully lackadaisical, the Children of
-[Hydros](Hydros_the_Laughing_God "wikilink") are cheerful, swift,
-playful and amusing. They also have a worrying tendency towards crime,
-pranks and, occasionally, complete uselessness. If you can motivate
-them, however, their swiftness, absolute fearlessness and supreme
-agility are amazing assets."
+**Air** - "Powerful enough provided they are kept safe from the press of
+close combat. If physically threatened they seem to crumble a little,
+which is ironic given their superiority complex."
 
-**Dark** - "Strong, powerful, useful and incredibly hard to kill . . .
-yet the Anvar are inherently fools. Born of a deity's disinterest, yet
-they desperately cling to the idea that
-[Solar](Solar_the_Blinding "wikilink") cares about anything at all in
-this universe. Heed not their dogma, but treat them with respect
-regardless for an angered Eater of Metal is a dangerous thing indeed."
+**Dark** - "The Illaria Purges were long before our time, but it is in
+our best interests to align with the rest of the Sects in the destruction
+of the [Damned](Dark_Sect "wikilink") at any possible opportunity. 
+Fortunately that is something we are good at."
 
-**Earth** - "Honour them for their skill that can rival even our own
-Blue Wings, their trade providing our Black Wings with much needed
-weapons and armour. They make for talented combatants, tough and wilful,
-stubborn almost beyond reason. However be wary as they hold grudges like
-no other, their anger slow burning and ever lasting unlike the short
-fused DragonLords or Anvar."
+**Earth** - "Our mutual alliance with the [Guardians](Guardian_Sect "wikilink")
+is currently our oldest standing long term agreement, so we should probably
+do our best to make sure it endures. Reinforcing everyone's opinion
+is probably not a great idea."
 
-**Fire** - "They are as varied as the Humans, in their own way, though
-it would be wise to never mention that fact to their face. Rage is the
-legacy of [Shaltar](Shaltar_the_AllFather "wikilink")'s Children,
-pulsing and screaming in their blood. No matter how calm or gentle the
-Children of the Dragon seem, remember first and foremost that a monster
-lives in the heart of each of them. Consider carefully if their strength
-and skill is worth the potential risks."
+**Fire** - "Our opposite in almost everything; magic, popularity and 
+personality, but they are useful enough in their own way. Just make
+sure you keep your magical defences layered high in case they get
+inaccurate with their spells."
 
 **Guardian** - "Be wary which of
 [Javersith's](Javersith_the_Sorrowful "wikilink") Children you ask for
