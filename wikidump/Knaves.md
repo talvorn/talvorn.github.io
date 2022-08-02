@@ -52,10 +52,9 @@ Ping
 
 ## **Opinion of Other Sects**
 
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Air** - "They're not called the [Nobles](Air_Sect "wikilink")
+for nothing. Think they are better than everyone, but that just 
+means they have more belongings to rifle through."
 
 **Earth** - "Far too obsessed with looking down, the
 [Grounded](Earth_Sect "wikilink") need to look up once in a while and
