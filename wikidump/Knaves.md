@@ -84,43 +84,36 @@ so game has to respect game. Bit weird though."
 when you hum really annoying songs to yourself inside your own head. 
 Which makes it obviously hilarious and smart to do."
 
-**Research** - "Grapping hooks, "
+**Research** - "Grapping hooks, automatic lockpicks, flash
+bangs, the list of toys the [Grey](Research_Sect "wikilink")
+make for us is almost unending and all equally fabulous. If
+a little unstable . . ."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**The Order** - "Dodge, avoid, mislead and generally stay the
+hell away from the [Stripebacks](The_Order_Sect "wikilink") if
+you like your fingers to remain attached. Just don't fully
+like to them either, they take it personally."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "Oh the shenanigans we could pull if we could only 
+get the [Dreamers](Universe_Sect "wikilink") onboard with our
+schemes. Alas they are far too distracted."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "They have more in common with us than they might
+want to agree with. Ultimately the [Bold](Warrior_Sect "wikilink")
+make for an excellent meatshield to hide behind."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "Some of their magic is real useful when it comes
+to making us even more evasive, but just be careful you do not
+upset them. Your footing can get real uncertain at the wrong
+moment."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - None, though the Knaves are smart enough to avoid wearing all black.
 
-**Symbol** - The Lightning Bolt
+**Symbol** - None. Not being a true Sect, they have no unifying symbol.
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The Knaves are wise enough not to mark themselves out for easy identification.
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
@@ -162,12 +155,12 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Rogues
+  - The Sly
+  - Pickpockets (insult)
+  - Thieves (insult)
+  - Breakers
+  - Padders (Vorn City Slang)
 
 ## **Patron Deity**
 
