@@ -79,27 +79,12 @@ most effective attack spells with us. Tough for them."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - To play an Angel you -must- possess
-Wings in one of these five shades. Small wings such as those purchased
-from Ann ummers or as part of cheap Halloween Costumes are not a
-suitable physrep. Angels are known by their large, feathered wings. The
-colour varies between the five Breeds, with wing colour being indicative
-of their abilities and place in Angelic society.
-:The colours available are; [Gold](Gold_Winged_Angel "wikilink") "The
-Nobles", [Blue](Blue_Winged_Angel "wikilink") "The Artists",
-[Grey](Grey_Winged_Angel "wikilink") "The Diplomats",
-[White](White_Winged_Angel "wikilink") "The Builders" and
-[Black](Black_Winged_Angel "wikilink") "The Warriors".
+**Colour**; **Primary Physrep.** - Pale blue, occasionally with white accents.
 
-**Symbol** - The skin of many Angels seems to be lit from above by a
-halo of light in the same shade as their wings. This gives them a
-strange, other worldly look.
-:This can be achieved through the usage of appropriately coloured make
-up along the forehead, nose, upper cheek bones, tops of the ears,
-shoulders, collar bone and chin.
+**Symbol** - The Falling Snowflake
 
-**Tattoo** - Angels of the various different Breeds have typical colours
-of hair associated with their wing colour.
+**Tattoo** - The symbol of the Ice Sect is placed upon the *Right
+Shoulder Blade*
 
 **Clothing** - Angels favour long, flowing robes, togas, stola and
 tunics. The colour of their clothing often reflects that of their wings
