@@ -61,84 +61,73 @@ hardship and more humble because of it."
 embodying decay far beyond the normal cycle. They are a force of
 entropy without renewal and this is unacceptable."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Earth** - "Some of the areas of our magic overlap and we are fine
+with this as the [Shattersteps](Earth_Sect "wikilink") are generally
+willing to live in relative harmony with the world around them,
+especially in their city of [Karamaterra](Karamaterra "wikilink"). The
+Devouring Jungle around there is wonderfully lush with life and a fine
+place to spend time and energy."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Fire** - "Fire has its place in nature, as it can provide space
+for regrowth and renewal of life but be wary in case the
+[Smokebelchers](Fire_Sect "wikilink") take it to the extreme."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Guardian** - "Their focus on life within the cities is much like
+[The Order](The_Order_Sect "wikilink") despite the pairs mutual objections
+and thus does not bring us into contact very often. They seem to be as
+rigid in their thinking as their armour is. Perhaps not a bad thing,
+but it also makes them potentially brittle."
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Healer** - "Whilst we focus on the realm of accelerating a bodies
+abilities and own restorative healing and the [Kindly](Healer_Sect "wikilink")
+primarily force restoration through more powerful magics, we still have a lot in
+common and work well together."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Ice** - "That which we do in the forests and jungles, the 
+[Glacial](Ice_Sect "wikilink") do in the mountains and tundra. For
+all their vaunted political unreliability, in this task at least
+they can be trusts to be efficient and effective."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Knave** - "It's very rare that we have anything to do with the
+[Pickpockets](Knaves_Guild "wikilink"), if only because it is rare
+that we spend a lot of time in the city. From what we have seen they
+are good at what they do, but since that sometimes includes theft,
+we are not sure we entirely approve."
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Psychic** - "We have no secrets that would interest the
+[Readers](Psychic_Sect "wikilink") and thus we have no issue
+with their telepathic abilities."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Research** - "Yet another Sect who has little interest in
+stepping beyond the confines of the urban environment. Short-sighted
+of the [Scientists](Research_Sect "wikilink") really when you bear
+in mind the botanical wonders that are waiting out there."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**The Order** - "Even we cannot escape the iron grasp of the
+[Stripebacks](The_Order_Sect "wikilink"), but law and order
+is better in the cities than survival of the fittest at least. 
+Just mind your manners and all should be well."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "Raw luck is a difficult thing to quantify, but
+that does not stop the [Stargazers](Universe_Sect "wikilink") 
+from somehow managing it. Be careful if you seek to track them as
+the clearest trail may turn into a trap at any moment."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "As we explore the wilds of Tal'Vorn, so do the
+[Ironclad](Warrior_Sect "wikilink") guard against it. They are
+supremely helpful should be we come across some monster or
+[Bisch](Bisch "wikilink") incursion that we cannot resolve alone,
+so keep the local Warriors sweet."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "There are places in the world that even we cannot
+go, and the oceans and deep lakes are one of them. In this regard
+ we work closely and well with the Divers."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - Pale green, sometimes with brown accents
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The Fallen Leaf
 
 **Tattoo** - The symbol of the Air Sect is placed upon the *Left
 Shoulder Blade*
