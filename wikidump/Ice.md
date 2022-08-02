@@ -33,35 +33,32 @@ personality, but they are useful enough in their own way. Just make
 sure you keep your magical defences layered high in case they get
 inaccurate with their spells."
 
-**Guardian** - "Be wary which of
-[Javersith's](Javersith_the_Sorrowful "wikilink") Children you ask for
-aid, as some are gentle and caring and others are brutal and
-uncompromising. Still, we owe this Race a great debt for their aid
-during the Great Plague that caused the division of our Race. Help them,
-protect them and keep them safe if you can, in repayment for this."
+**Guardian** - "They trusted us when nearly no-one else would; do
+everything we can to honour our alliance. They are honest and trustworthy
+and loyal and thus, in our dealing with them at least, we should 
+be the same."
 
-**Healer** - "Our relationship with the Humans is . . . complicated. We
-exploited their apparent racial memory and fear of 'Angelic' beings
-during the Great War to massive effect, something that we, even today,
-are not proud of. They are powerful in their own way, being one of the
-few Races capable of producing legitimately powerful Psykers, and they
-seem to have an inherent knack for most magics. They will never be as
-skilled at calling down the lightning as an Angelic Caster, but their
-broad skill and flexibility is something to be respected."
+**Healer** - "Though we don't suffer the ill-effects of our own spells,
+the [Sawbones](Healer_Sect "wikilink") are still helpful enough for
+patching up any other injuries we might pick up. Sincee we spend a 
+lot of time in the front line, it's worth keeping them happy so they
+will be willing to help out."
 
-**Knave** - "They are almost Human, but possessed of a nobility that few
-others seem to be able to see. Melancholy follows all three of the
-Soulless Breeds, but burns fiercest in the youngest, the Soulless-Born.
-Lacking the insectile Myrmidons unmatched skill with magics and the
-colossal Abaddons phenomenal strength, the 'Born' make up for it with
-courage, determination and an implacable drive to honour their creator,
-the Nightbringer [Hevar](Hevar_the_Nightbringer "wikilink")."
+**Knave** - "Amusingly untrustworthy and thus they are probably in a
+similar situation with the other Sects as ourselves. This might be
+useful from a perspective of formenting a mutually benefical agreement."
 
-**Life**
+**Life** - "We share a lot of duties, though ours take place in the
+mountains and northern reaches of the world, so we tend to get on fairly
+well with the [Wanderers](Life_Sect "wikilink"). We certainly have a
+more refined appreciation for our creature comforts however!"
 
-**Psychic**
+**Psychic** - "An entire Sect of busybodies and mind-readers who can 
+collectively learn to keep their noses out of other peoples business."
 
-**Research**
+**Research** - "Utter psychotics, even if a rare amount of what they
+create is actually useful. Yet, for some reason, people trust them
+more than ourselves. Absurd."
 
 **The Order**
 
