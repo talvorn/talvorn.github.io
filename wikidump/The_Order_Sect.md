@@ -81,34 +81,27 @@ committed. The [Kindly](Healer_Sect "wikilink") . . . are not
 impressed by this. We do not mean to increase their worklord,
 but needs must."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Ice** - "We do not begrudge the [Obstinate](Guardian_Sect "wikilink")
+their alliance with the [Fickle](Ice_Sect "wikilink"), if only
+because the Ice Sect are as reliable as the snowflake that forms
+their symbol. This power-block will collapse like snow under a
+summer sun."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Knave** - "The concept of actual thieves operating alongside
+legitimate members of the Sects, naturally, does not sit well.
+More annoying than that however, is that since their legalisation
+crime really has actually fallen slightly. Absurd."
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Life** - "So long as whatever crimes they commit are done out
+in the wilderness, they remain not our problem. Frankly speaking,
+any group of people we can say that about is pleasant novelty."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Psychic** - "We work well with the Third Eye in matters of
+interrogation and investigation, but be cautious of them anyway.
+A group capable of modifying your memory should always be suspect
+from a law-enforcement perspective."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**Research** - "The majority of the idiocy the [Untaught](Dark_Sect "wikilink")"
 
 **Universe** - "For idiot stargazers, the Universe Sect are actually
 quite useful. The ability to manipulate the flow of luck, along with
