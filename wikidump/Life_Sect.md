@@ -172,12 +172,12 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Rangers
+  - Wanderers
+  - Vagrents (insult)
+  - Feral (insult)
+  - Vriclar' Marked
+  - Wilder (Vorn City Slang)
 
 ## **Patron Deity**
 
