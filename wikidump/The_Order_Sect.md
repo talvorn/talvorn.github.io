@@ -118,7 +118,9 @@ are generally brave and reliable folk. Further, at least the few
 crimes they commit are usually due to off-duty foolishness
 and easily resolved."
 
-**Water** - "So long as don't find out what the [Stubborn](Guardian_Sect "wikilink")"
+**Water** - "So long as don't find out what the 
+[Swimmers](Water_Sect "wikilink") are up to under the water,
+we will continue to have no issue with them."
 
 ## **Sect Physrep**
 
