@@ -61,29 +61,25 @@ enough to join the ranks of the [Traitors](Dark_Sect "wikilink").
 Punishments we do not dicuss amidst those not part of the 
 [Arrow](The_Order_Sect "wikilink")."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Earth** - "Eventually the [Diggers](Earth_Sect "wikilink")
+will realise that this project of independence they are 
+attempting in [Karamaterra](Karamaterra "wikilink") is as
+disaster waiting to happen. At that point we will be delighted
+to lend our asssistance."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Fire** - "Though more chaotic than we would prefer our allies to be,
+the [Blazing](Fire_Sect "wikilink") do an important job in 
+their role as firefighters and their dedication to that is 
+second to none."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Guardian** - "The [Hidebound](Guardian_Sect "wikilink") are fools.
+Stubborn, unmoving, traditionalist fools."
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Healer** - "On occasion we are forced to include the terms "no
+magical healing' when meting out punishments for crimes
+committed. The [Kindly](Healer_Sect "wikilink") . . . are not
+impressed by this. We do not mean to increase their worklord,
+but needs must."
 
 **Knave** - "Bloody mercenaries and thieves, nothing more."
 
