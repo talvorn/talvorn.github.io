@@ -52,10 +52,8 @@ Ping
 
 ## **Opinion of Other Sects**
 
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Air** - "Bright, confident lights, their minds glow with the power
+of their self-assurance. Makes them easy to find and easier to read."
 
 **Earth** - "Far too obsessed with looking down, the
 [Grounded](Earth_Sect "wikilink") need to look up once in a while and
