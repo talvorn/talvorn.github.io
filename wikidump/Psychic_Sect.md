@@ -87,50 +87,39 @@ the Lord Magus decided that the best possible response was to
 hire all of them? An experiment which we anticipate will end poorly."
 
 **Life** - "There is an offly snimalistic tinge to the minds of the
-[Rangers](Life_Sect "wikilink") "
+[Rangers](Life_Sect "wikilink"), which should probably not be a
+surprise really given their chosen vocation. This can make it
+difficult to pluck anything beyond surface thoughts however."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Research** - "Blindly providing any who requests it any 
+information they desire will simply lead to chaos, death
+and destruction. Of course we cannot condone such a thing and
+thus we keep what secrets we can."
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**The Order** - "Our work as interrogators with the 
+[Just](The_Order_Sect "wikilink") is a necessary evil but not
+one which we particularly enjoy. Still, they appreciate our
+help and friendship is always appreciated."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "The multitude of futures which the 
+[Fortunetellers](Universe_Sect "wikilink") constantly look out
+upon wreck havoc upon our ability to read them. An actual 
+walking Sect full of potentiality induced headaches."
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "Very little of interest in the sharp, 
+blood-tinged thoughts of the Mundanes."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "Some of the things the [Divers](Water_Sect "wikilink")
+have seen in the deep places of the world would be better
+off never being plucked from their minds."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - Pale purple
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The Lidless Eye
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The symbol of the Psychic Sect is placed upon the *Tongue*. As we appeciate the difficulty of physrepping this, then the chin or forehead are fine as well.
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
