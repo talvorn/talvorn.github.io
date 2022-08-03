@@ -185,12 +185,12 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Divers
+  - Swimmers
+  - Sodden (insult)
+  - Drifters (insult)
+  - Hydros Marked
+  - Bluecoats (Vorn City Slang)
 
 ## **Patron Deity**
 
