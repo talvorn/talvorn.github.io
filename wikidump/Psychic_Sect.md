@@ -162,6 +162,7 @@ though some prefer less ominous methods of referring to themselves.
 ## **Nicknames**
 
   - Telekines
+  - Readers
   - Psyker
   - Nosey Fuckers (insult)
   - Trawler (insult)
