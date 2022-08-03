@@ -55,50 +55,45 @@ Ping
 **Air** - "Closer to the stars than most and thus favoured highly.
 Shame they know it."
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Dark** - "No luck or shinging stars for these monsters in the night.
+Bring down the shadows of direst misfortunte and break them on the
+rack of sorrow."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Earth** - "The [Shattersteps](Earth_Sect "wikilink") look down too much, which is a pity.
+If they lifted their gaze, perhaps they could see that their
+determination to repel [The Order](The_Order_Sect "wikilink")
+may hurt them in the long run."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Fire** - "A Sect this focused on causing as many explosions
+as possible surely must be favour by luck, or they would certainly
+all have blown themselves up by now."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Guardian** - "The [Teachers](Guardian_Sect "wikilink") unwillingness
+to learn and adapt is ironic, given their nickname. Some flexibility
+in life would probably help them in their on-going disagreements
+with the [Just](The_Order_Sect "wikilink")."
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Healer** - "There have been occasions when the 
+[Kindly](Hesler_Sect "wikilink") have asked us to intervene on
+behalf of a patient. We have been cautious of doing so,
+for the barrier between death and life is dangerous to
+interfere with using luck, but should the cause be good enough
+we can be persuaded."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Ice** - "Being so flighty is fitting for a Sect named after a
+substance that fades away in the warmth. We cannot judge really
+in that regard, but some more focus would help with the other
+Sects at least."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Knave** - "Without any measurable ability to manipulate luck,
+the [Rogues](Knaves_Guild "wikilink") still somehow manage to
+be far more fortunate than they have any right to be! Maybe the 
+stars really do smile on those doing their work by moonlight?"
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Life** - "In the natural world, a touch of luck is extremely
+helpful and can make the difference between dinner and being
+dinner. Be kind to the [Rangers](Life_Sect "wikilink")
+because luck won't always be."
 
 **Research** - "Explosive obsessed, consequence-blind and driven by
 progress for the sake of it, the Research Sect are a waste of both time
