@@ -48,7 +48,7 @@ down by a lightning bolt from a clear blue sky.
 
 ## **Representative Within Haven**
 
-Ping
+Sol ChainBreaker, Order Sect Mage First Class
 
 ## **Opinion of Other Sects**
 
