@@ -52,10 +52,8 @@ Ping
 
 ## **Opinion of Other Sects**
 
-**Dark** - "They had their uses once, but since the Illaria Purges of
-999AL, we have wisely avoided what is left of these power-hungry,
-soul-bartering fools. Do your job and kill the
-[Untaught](Dark_Sect "wikilink") when you find them."
+**Air** - "Closer to the stars than most and thus favoured highly.
+Shame they know it."
 
 **Earth** - "Far too obsessed with looking down, the
 [Grounded](Earth_Sect "wikilink") need to look up once in a while and
@@ -137,13 +135,11 @@ limited use when the winds can give us flight."
 
 ## **Sect Physrep**
 
-**Colour**; **Primary Physrep.** - Yellow or gold, the colour of the
-proverbial lightning bolt.
+**Colour**; **Primary Physrep.** - Dark purple, occasionally with yellow or gold accents.
 
-**Symbol** - The Lightning Bolt
+**Symbol** - The Burning Comet
 
-**Tattoo** - The symbol of the Air Sect is placed upon the *Left
-Shoulder Blade*
+**Tattoo** - The symbol of the Universe Sect is placed upon the *Lower Back*
 
 **Clothing** - Like most Arcanists, the Air Sect prefer to keep their
 hands free in order to manage the more complex gestures required of
@@ -185,12 +181,12 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Stormcallers
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - Fortunetellers
+  - Stargazers
+  - Dreamers (insult)
+  - Fools (insult)
+  - Solar Marked
+  - Luckies (Vorn City Slang)
 
 ## **Patron Deity**
 
