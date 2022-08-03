@@ -55,50 +55,39 @@ Ping
 **Air** - "Bright, confident lights, their minds glow with the power
 of their self-assurance. Makes them easy to find and easier to read."
 
-**Earth** - "Far too obsessed with looking down, the
-[Grounded](Earth_Sect "wikilink") need to look up once in a while and
-appreciate the wonder of the sky above. Still, they are not that much of
-a threat to competent members of our Sect and so should not be a
-concern."
+**Dark** - "Any of the Sects could become one of the [Damned](Dark_Sect "wikilink"),
+so predictions on what their minds look or feel like are hard to make. 
+More unfortunately they do tend to be quite good at hiding their
+thoughts by necessity which makes finding them even harder."
 
-**Fire** - "Demented pyromaniacs for the most part, for some mad reason
-the Fire Sect is still ridiculously popular with the common Mundanes.
-They have their uses, to be fair, but make sure you use the full range
-of our spells when they are on the field nearby. Getting caught in the
-blast of a [Smokebelchers](Fire_Sect "wikilink") attack would be
-unwise."
+**Earth** - "Utterly blunt and without compromise, as befits a Sect
+so hell-bent on forging their own destingy. There are ways into
+any fortification however, and [Guardians](Guardian_Sect "wikilink")
+the [Shattersteps](Earth_Sect "wikilink") are not."
 
-**Guardian** - "Walking walls of armour and magic, the
-[Teachers](Guardian_Sect "wikilink") do their jobs well but they have
-too many responsibilities. How can we trust a Sect who are not only
-responsible for defending the Jump Gates, but also the bodyguards for
-the Magus Council and the teachers of our Acolytes?"
+**Fire** - "If any Sect could be said to wear their hearts on their
+sleeves, it would be the [Pyros](Fire_Sect "wikilink"). Almost makes
+it pointless reading their minds."
 
-**Healer** - "Naturally the [Painsalvers](Healer_Sect "wikilink") have
-their place in the world and we will support them in it. But what is the
-skill to cure a runny nose beside the glory of being borne aloft on
-stormwinds, to be commander of hurricanes and typhoons?"
+**Guardian** - "Their minds are surprisingly difficult to read for a
+Sect with magic that seems so straightforward. Perhaps an indication
+of why they can cast cantrips from some of the other Sects?"
 
-**Ice** - "The correct place for a attack focused Caster is behind the
-lines, calm and controlled, not in the midst of the melee risking life
-and limb in a most undignified fashion. The almost slavish devotion the
-[Glacial](Ice_Sect "wikilink") display for the Guardian Sect is also,
-frankly, a little sickening."
+**Healer** - "Some of the [Kindly](Healer_Sect "wikilink") have 
+minds like cotton wool, whilst others have a raxor blade lurking
+in the fluff. Be careful which it is before you dig too deep."
 
-**Knave** - "Bloody mercenaries and thieves, nothing more."
+**Ice** - "Most of their minds are as slick as the material their Sect
+is named for, but there are a few inherent truths; most of the
+[Glacial](Ice_Sect "wikilink") will do what is best for themselves at
+any given point, and they expect others to do the same."
 
-**Life** - "The [Rangers](Life_Sect "wikilink") have a healthy respect
-for the natural world, including the rhythms and patterns of the skies.
-Their connection to Tal'Vorn's heartbeat is worthy of respect, but they
-are not as obedient as some of the other Sects. They spend much of their
-time in the wilds and thus have little respect for the status quo."
+**Knave** - "An entire group trained in deception, lies and theft and
+the Lord Magus decided that the best possible response was to
+hire all of them? An experiment which we anticipate will end poorly."
 
-**Psychic** - "As with any group capable of literally reading your mind,
-be wary and guard your thoughts around them. Their close links to our
-allies in the Order is still no reason to trust the
-[Mindbuzzers](Psychic_Sect "wikilink"). They are loyal for now, but
-their close connection with the weird magic of Time makes them
-unpredictable."
+**Life** - "There is an offly snimalistic tinge to the minds of the
+[Rangers](Life_Sect "wikilink") "
 
 **Research** - "Explosive obsessed, consequence-blind and driven by
 progress for the sake of it, the Research Sect are a waste of both time
