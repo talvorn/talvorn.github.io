@@ -101,26 +101,24 @@ interrogation and investigation, but be cautious of them anyway.
 A group capable of modifying your memory should always be suspect
 from a law-enforcement perspective."
 
-**Research** - "The majority of the idiocy the [Untaught](Dark_Sect "wikilink")"
+**Research** - "The majority of the idiocy the 
+[Mad](Research_Sect "wikilink") get up to does not fall within the remit
+of crimes we are responsible for punishing, unless being a pack of
+absolute bloody fools is illegal. Mind you, the amount of times they blow
+themselves up, they are probably all guilty of Assault on a Sect Member."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**Universe** - "Trying to collar one of the [Dreamers](Universe_Sect "wikilink")
+is an utter nightmare. How do so many heavily laden carts suddenly
+emerge from blind alleyways right into our path?"
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "As we guard the core of the cities, so too do the
+[Bold](Warrior_Sect "wikilink") defend the edges. Even if they are closer
+to the [Stubborn](Guardian_Sect "wikilink") than we would like, they
+are generally brave and reliable folk. Further, at least the few
+crimes they commit are usually due to off-duty foolishness
+and easily resolved."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "So long as don't find out what the [Stubborn](Guardian_Sect "wikilink")"
 
 ## **Sect Physrep**
 
