@@ -182,11 +182,11 @@ though some prefer less ominous methods of referring to themselves.
 ## **Nicknames**
 
   - The Arrorw
-  - Navigators
-  - Windbags (insult)
-  - Assassins (insult)
-  - Aeros' Marked
-  - Yellowjacket (Vorn City Slang)
+  - The Just
+  - Totalitarians (insult)
+  - Brutes (insult)
+  - Law Marked
+  - Stripebacks (Vorn City Slang)
 
 ## **Patron Deity**
 
