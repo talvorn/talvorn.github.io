@@ -95,38 +95,28 @@ helpful and can make the difference between dinner and being
 dinner. Be kind to the [Rangers](Life_Sect "wikilink")
 because luck won't always be."
 
-**Research** - "Explosive obsessed, consequence-blind and driven by
-progress for the sake of it, the Research Sect are a waste of both time
-and resources. Some might say that their guns and technology pack a
-fearsome blow, but frankly our own spells are more accurate and just as
-lethal as anything the [Tinkerers](Research_Sect "wikilink") can come up
-with."
+**Psychic** - "Apparently our very presence gives the 
+[Psykers](Psychic_Sect "wikilink") something of a headache.
+Perhaps they should keep their minds to themselves?"
 
-**The Order** - "Our staunchest allies, the
-[Lawmakers](The_Order_Sect "wikilink") are honourable and forward
-thinking, unlike the hide-bound Guardians or the fawning Earth Sect.
-Generally speaking we can trust The Order to assist us both on and off
-the field, their crowd-control abilities meshing well with our own
-pinpoint strikes."
+**Research** - "No matter how many times they ask, no we will not
+ask the stars to interfere in making the [Mads](Research_Sect "wikilink")
+latest hair-brained experiment actually function correctly. They
+can take the risks into their own hands like everyone else."
 
-**Universe** - "For idiot stargazers, the Universe Sect are actually
-quite useful. The ability to manipulate the flow of luck, along with
-their scrying abilities makes it difficult to evade their attentions.
-And since the attention of the [Seers](Universe_Sect "wikilink") can
-take the form of a comet to the face, it is not to be discounted."
+**The Order** - "Maybe it's because they have very little chance of
+catching us, but we seem to have few issues with the Order. Of course,
+perhaps we have just been lucky.""
 
-**Warrior** - "Little more than a jumped up guild of mercenaries and
-bodyguards, the Warrior Sect have started getting above their station in
-recent years. The [Bold](Warrior_Sect "wikilink") might be trained and
-honed to the edge of physical perfection, but that will not help them
-when we put a thousand volts through them."
+**Warrior** - "The [Brave](Warrior_Sect "wikilink") are far-seeing
+enough and flexible in their mindset, especially taken as an entire
+Sect. Big believers in superstition as well, like most soliders.
+Fortunately for them the stars generally seem to smiile."
 
-**Water** - "The Water Sect take far too much from their progenitors,
-the Merfolk. Laid back, relaxed and often just lazy, the
-[Divers](Water_Sect "wikilink") are frankly just a disgrace. They have
-their uses near the coast but their power is nothing to write home
-about. the ability to turn the ground into a bog is, after all, of
-limited use when the winds can give us flight."
+**Water** - "It is hard to know what the stars think of the
+[Bluecoats](Water_Sect "wikilink"), so far from their light do
+they spend most of the time. They are supremely flexible however 
+which will no doubt help in the long run."
 
 ## **Sect Physrep**
 
