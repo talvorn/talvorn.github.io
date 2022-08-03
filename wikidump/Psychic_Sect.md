@@ -161,7 +161,7 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Nicknames**
 
-  - Telekines
+  - Third Eye
   - Readers
   - Psyker
   - Nosey Fuckers (insult)
