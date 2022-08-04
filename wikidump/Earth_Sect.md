@@ -170,4 +170,17 @@ though some prefer less ominous methods of referring to themselves.
 The Patron Deity of the Shattersteps is, naturally, the God
 of the Earth Himself, [Terra the Smith](Terra_The_Smith "wikilink").
 Most of the Sect focus less upon His domain over smithing and 
-crafting 
+crafting and more on the personification of stone and the mountains.
+The Sect makes offerings of interesting stones or gems, often
+giving prayer and thanks to the [Old Stone Bones](Terra_The_Smith "wikilink")
+in groups as would be normal in the human number of tamples in
+their home city. Blessings asked for often cover more powerful
+magics, strength granted to defensive forifications, especially
+those made of rock or stone, or when embarking onto a new journey
+into mountainous terrain.
+  
+As many of the Sect hail from the [City of Temples](Karamaterra "wikilink"),
+they are also often non-specific in their worship, favouring
+whichever deity is relevant to the task at hand. They still tend to
+favour praying with others however, if such a thing is possible
+at the time.
