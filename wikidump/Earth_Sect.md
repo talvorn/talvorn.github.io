@@ -153,8 +153,7 @@ though some prefer less ominous methods of referring to themselves.
   -
 
       -
-        Example Titles; AngelsChild, BlackWing, LightningCaller,
-        NorthWind, StormBreaker
+        Example Titles; EarthSaviour, GemSeeker, MountainCrumbler, StoneBreaker, WallRaiser
 
 ## **Nicknames**
 
