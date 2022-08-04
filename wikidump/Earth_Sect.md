@@ -173,7 +173,7 @@ Most of the Sect focus less upon His domain over smithing and
 crafting and more on the personification of stone and the mountains.
 The Sect makes offerings of interesting stones or gems, often
 giving prayer and thanks to the [Old Stone Bones](Terra_The_Smith "wikilink")
-in groups as would be normal in the human number of tamples in
+in groups as would be normal in the huge number of tamples in
 their home city. Blessings asked for often cover more powerful
 magics, strength granted to defensive forifications, especially
 those made of rock or stone, or when embarking onto a new journey
