@@ -146,9 +146,9 @@ yellow of lightning throughout their clothing and accessories.
 
 ## **Titles**
 
-Air Sect titles most often make reference to the more aggressive aspects
-of their magic, focusing upon storms, lightning, thunder and so forth,
-though some prefer less ominous methods of referring to themselves.
+Earth Sect titles usually make reference to their dominion over the 
+very ground underfoot, with references to stone, mountains, gems,
+fortifcations and the earth itself being common.
 
   -
 
