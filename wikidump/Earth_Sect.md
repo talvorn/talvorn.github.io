@@ -167,10 +167,7 @@ though some prefer less ominous methods of referring to themselves.
 
 ## **Patron Deity**
 
-Being primarily composed of Angels and using a magic created by that
-self-same Race, the Air Sect has a definite leaning towards the worship
-of Aeros, the Sky Lord. The Stormcallers focus less upon Aeros' aspect
-as the God of Valour and more upon His dominion over Flight and Air
-itself, invoking His name when attempting complex rituals, embarking
-upon dangerous sea voyages, before a potentially lethal mission or
-simply as part of daily life.
+The Patron Deity of the Shattersteps is, naturally, the God
+of the Earth Himself, [Terra the Smith](Terra_The_Smith "wikilink").
+Most of the Sect focus less upon His domain over smithing and 
+crafting 
