@@ -118,13 +118,15 @@ minor tremor."
 
 **Tattoo** - The symbol of the Earth Sect is placed upon the *Sternum*.
 
-**Clothing** - Like most Arcanists, the Air Sect prefer to keep their
-hands free in order to manage the more complex gestures required of
-their aggressive spells and also to ensure that their closer range
-attacks are not accidentally earthed into their own clothing. There is a
-distinct similarity to more traditional Angelic clothing as well,
-causing togas and stola to be common amongst members of the Sect,
-regardless of their racial origin.
+**Clothing** - The city of Karamaterra, in the Eastern Land, is
+the headquarters of the Earth Sect and where every member of the
+Sect spends at least some of their time, even if assigned elsewhere.
+The [City of Tamples](Karamaterra "wikilink") is truely beautiful
+but is bakingly hot. As such many of the Sect favour light linens 
+in their traditional colours, especially when having to also wear
+armour, usually artfully cut or shaped to display the Sect
+tattoo on the sternum. Some in colder climates favour having the image
+embroidered onto the location instead.
 
 **Weapon Preferences** - Being formed from the magics used traditionally
 by the [Angelic](Angel "wikilink") inhabitants of Tal'Vorn, the members
