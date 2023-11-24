@@ -1,0 +1,7 @@
+a, h2, h3, h4, h5 {
+    color: #020024;
+}
+
+hr {
+    background: linear-gradient(90deg, rgba(17,17,17,1) 0%, rgba(0,0,100,1) 50%, rgba(17,17,17,1) 100%);
+}
